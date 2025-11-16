@@ -1,4 +1,4 @@
-# STX Freelance Platform
+# STX Freelance Platform STXWORX
 
 A decentralized freelance escrow platform built on the Stacks blockchain, supporting both STX and sBTC payments with milestone-based project management.
 
